@@ -1,4 +1,5 @@
 #include "RaylibPlugin.h"
+#include "raylib.h"
 
 namespace Plugins {
 void RaylibPlugin::Build(Core::App &app) {
